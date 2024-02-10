@@ -7,7 +7,7 @@ A small implementation of signals, inspired by a snippet of Django signal
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
-pip install python_sginal
+pip install python_signal
 ```
 
 ```python
